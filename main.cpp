@@ -125,7 +125,7 @@ public:
         garage.push_back(std::make_unique<Nascar>("Ford Mustang Nascar"));
         
         drivers.emplace_back("Lightning McQueen", 95);
-        drivers.emplace_back("Alex Leclerc", 92);
+        drivers.emplace_back("Charles Leclerc", 92);
         drivers.emplace_back("Max Verstappen", 96);
         drivers.emplace_back("Chris Buescher", 88);
         drivers.emplace_back("Maro Engel", 93);
